@@ -1,4 +1,4 @@
-# 
+# Official WizTree add-ons for Mac OS | Exclusive WizTree add-ons for PC Windows. Featuring recycle bin cleanup and scripting support — optimized for maximum performance on every platform.
 
 
 
